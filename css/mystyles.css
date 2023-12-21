@@ -9,7 +9,7 @@ body{
 
 h1{
     font-style: italic;
-    color: rgb(216, 83, 83);
+    color: white;
     text-align: center;
     font-size: 175px;
     margin: 0%;
@@ -36,7 +36,7 @@ h1{
 }
 
 .linky{
-    color: rgb(94, 236, 87);
+    color: rgb(222, 240, 87);
     position: relative;
     left: 0;
     text-align: left;
